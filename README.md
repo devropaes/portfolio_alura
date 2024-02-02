@@ -1,2 +1,2 @@
 # portfolio_alura
-Meu primeiro portfolio desenvolvido com os cursos HTML e CSS da alura
+Meu primeiro portfólio desenvolvido com os cursos HTML e CSS da alura
